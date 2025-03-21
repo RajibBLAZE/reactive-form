@@ -5,7 +5,7 @@ Build an Angular app with a form to capture user details (Name, Email) and displ
 
 <h3 align="center">A Reactive Form</h3>
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+  <a href="https://rajibblaze.github.io/reactive-form/">View Demo</a>
 </p>
 
 <details>
@@ -29,7 +29,8 @@ Build an Angular app with a form to capture user details (Name, Email) and displ
 
 
 ## About The Project
-![image](https://github.com/user-attachments/assets/958f54a6-ac31-4b0b-96d7-db67583097f1)
+![image](https://github.com/user-attachments/assets/e5c41030-c13e-4a59-a9cf-764b710b2ff8)
+
 
 
 This project is a Reactive Form built with Angular that collects user information such as Username, Email, State, Gender, and Hobbies. It uses Bootstrap for styling and provides dynamic form controls.
@@ -85,8 +86,11 @@ _Below is an example of how you can instruct your audience on installing and set
 
 ### Screenshots
 
-![image](https://github.com/user-attachments/assets/7be52c50-3345-40b0-aadb-9d56ddf22ea4)
+![image](https://github.com/user-attachments/assets/8ef51706-6f4a-4480-a55e-8de5b9baeea9)
+
 #Submitted Form
-![image](https://github.com/user-attachments/assets/1d3cacf3-dc27-42f5-b895-8645c0f1e2d6)
+![image](https://github.com/user-attachments/assets/665965fc-d744-470f-8eb3-17e43765f4d1)
+
 #Live form
-![image](https://github.com/user-attachments/assets/41bdf84a-9e43-4424-94a0-ec73816f44cc)
+![image](https://github.com/user-attachments/assets/389ae05d-52c2-4de6-99e8-b49a90817e71)
+
