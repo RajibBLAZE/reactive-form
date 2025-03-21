@@ -63,6 +63,10 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   npm install -g @angular/cli@14
   ```
+* typescript
+  ```sh
+   npm install typescript@4.8.4 --save-dev
+  ```
 ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
@@ -90,7 +94,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 #Submitted Form
 ![image](https://github.com/user-attachments/assets/665965fc-d744-470f-8eb3-17e43765f4d1)
-
 #Live form
+
 ![image](https://github.com/user-attachments/assets/389ae05d-52c2-4de6-99e8-b49a90817e71)
 
